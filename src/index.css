@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: rgba(11, 36, 52, 1);
+  overflow: hidden;
+}
+
+main {
+  background: rgba(245, 245, 245, 1);
+  margin: 5em 3em;
+  border-radius: 10px;
+  height: 85vh;
+}
